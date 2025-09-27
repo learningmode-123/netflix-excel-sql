@@ -47,6 +47,7 @@ This project helped me develop more complex skills, specially in cleaning data, 
 \~ Runtime & Format Insights
 
 **What’s the distribution of movie runtimes (minutes)?**  
+
 **What’s the average number of seasons for TV shows?**
 
 \~ Diversity & Representation
@@ -56,6 +57,7 @@ This project helped me develop more complex skills, specially in cleaning data, 
 **What is the spread of ratings (e.g., PG, R, 16+, etc.) across movies and TV shows?**
 
 \~ Audience & Market Proxy Questions  
+
 **Which months/quarters see the most new releases added?**
 
 **What is the relationship between ratings and runtime?**
